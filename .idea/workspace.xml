@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa63edb6-5b2c-4d3a-b631-2edee890f61c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/BankingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/SignUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/steps/BankingStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/steps/LoginStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/steps/SignUpStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utils/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utils/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/Account.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/signup.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2jSFhEDr3ilPCgAsgHn94UtH558" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Cucumber Java.Feature: Account.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: signup (1).executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: signup.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: create new user account.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: verify new checking account is created by user.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: verify new savings account is created by user.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/pro/Cucumber/DemoNopCommerce&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/pro/BankTestCucu/src/main/java/com/demo/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pro\BankTestCucu\src\test\resources\feature" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.automation.utils" />
+      <recent name="com.automation.steps" />
+      <recent name="com.automation.pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: Account">
+    <configuration name="Feature: Account" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/Account.feature" />
+      <option name="GLUE" value="com.automation.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="BankTestCucu" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Account" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: signup" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/signup.feature" />
+      <option name="GLUE" value="com.automation.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="BankTestCucu" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: signup" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: verify new checking account is created by user" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/CheckingAccount.feature" />
+      <option name="GLUE" value="com.automation.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="BankTestCucu" />
+      <option name="NAME_FILTER" value="^verify new checking account is created by user$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^verify new checking account is created by user$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: verify new checking account is created by user" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: verify new savings account is created by user" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feature/Account.feature" />
+      <option name="GLUE" value="com.automation.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="BankTestCucu" />
+      <option name="NAME_FILTER" value="^verify new savings account is created by user$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^verify new savings account is created by user$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: verify new savings account is created by user" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankTestCucu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: Account" />
+        <item itemvalue="Cucumber Java.Feature: signup" />
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: verify new savings account is created by user" />
+        <item itemvalue="Cucumber Java.Scenario: verify new checking account is created by user" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa63edb6-5b2c-4d3a-b631-2edee890f61c" name="Changes" comment="" />
+      <created>1721372687674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721372687674</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
